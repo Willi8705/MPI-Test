@@ -33,7 +33,7 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="false">
+          <option name="time_enabled" value="true">
             <options>
               <option name="time_format" value="remaining" />
             </options>
@@ -1289,6 +1289,48 @@
         <slidelink slideid="_player.5q8ElLueZo2" displaytext="Bumper" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5q8ElLueZo2.5fPTdVodrHk" displaytext="Video" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5aFK0YMm9IF" displaytext="Cover" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5aFK0YMm9IF.63eMNrjVdff" displaytext="Log in" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6e6ZOvEE4d4" displaytext="Menu" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6e6ZOvEE4d4.6AmBkhrCPAY" displaytext="Home" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Yecro77tpi" displaytext="Tujuan" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5Yecro77tpi.6EpjDTSQk8a" displaytext="ATP&amp;amp;Elemen" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6mc7fb0h2Xi" displaytext="Materi" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6mc7fb0h2Xi.6pLuKYPpZXh" displaytext="Belajar" expand="false" type="slide" />
+            <slidelink slideid="_player.6mc7fb0h2Xi.5bBx2z69tiL" displaytext="Sejarah" expand="false" type="slide" />
+            <slidelink slideid="_player.6mc7fb0h2Xi.6R8LNmRoh1g" displaytext="Perkembangan" expand="false" type="slide" />
+            <slidelink slideid="_player.6mc7fb0h2Xi.6NE2nM4qrKh" displaytext="ELEMEN BM" expand="false" type="slide" />
+            <slidelink slideid="_player.6mc7fb0h2Xi.6NolmtGtP4L" displaytext="Lanjutan Elemen Bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.6mc7fb0h2Xi.5qJ9pGCgi7D" displaytext="Manfaat" expand="false" type="slide" />
+            <slidelink slideid="_player.6mc7fb0h2Xi.5Wty66G0Dpe" displaytext="MindMap Manfaat" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6YnXVOkFGHq" displaytext="Informasi" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6YnXVOkFGHq.60kbq4DyWVM" displaytext="Pengembang" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.622uf050j73" displaytext="Assesmen" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.622uf050j73.5WF40aOfV2D" displaytext="Petunjuk" expand="false" type="slide" />
+            <slidelink slideid="_player.622uf050j73.6Q8cb74DkPl" displaytext="Jerome McCarthy adalah orang yang pertama kali memperkenalkan istilah Marketing Mix (Bauran Pemasaran)." expand="false" type="slide" />
+            <slidelink slideid="_player.622uf050j73.6V2lJOSFzuu" displaytext="Bauran Pemasaran (Marketing Mix), awalnya terdiri dari empat elemen utama yang dikenal sebagai 4P: Product, Price, Place, dan Promotion." expand="false" type="slide" />
+            <slidelink slideid="_player.622uf050j73.5zgLcBzINEQ" displaytext="Elemen Place dalam bauran pemasaran merujuk pada strategi penetapan harga produk di pasar." expand="false" type="slide" />
+            <slidelink slideid="_player.622uf050j73.6DFeEiutX3G" displaytext="Cocokkan uraian dengan elemen bauran pemasaran (marketing mix) yang sesuai!" expand="false" type="slide" />
+            <slidelink slideid="_player.622uf050j73.67xxGJxIdPi" displaytext="Susunlah kembali agar menjadi kalimat yang sesuai dengan konsep bauran pemasaran!" expand="false" type="slide" />
+            <slidelink slideid="_player.622uf050j73.5qHJlw7zxhe" displaytext="Susunlah kembali agar menjadi kalimat yang sesuai dengan konsep bauran pemasaran!" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
